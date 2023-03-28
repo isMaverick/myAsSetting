@@ -5,7 +5,7 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="192.168.3.77:5555" />
+            <value value="0123456789ABCDEF" />
           </Key>
         </key>
         <name value="alps C2000S(5G)" />
@@ -16,7 +16,7 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="0123456789ABCDEF" />
+            <value value="192.168.3.77:5555" />
           </Key>
         </key>
         <name value="alps C2000S(5G)" />
