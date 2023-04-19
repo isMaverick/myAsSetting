@@ -96,9 +96,8 @@
             <value value="8600142034c442a068b" />
           </Key>
         </key>
-        <name value="Allwinner Neptune VR9 Triton" />
-        <target value="Android 7.1.1" />
-        <api value="androidversion:25:null:null:true" />
+        <name value="Device" />
+        <target value="Android 1.0" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
