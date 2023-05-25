@@ -140,8 +140,9 @@
             <value value="AD01582304150010" />
           </Key>
         </key>
-        <name value="Device" />
-        <target value="Android 1.0" />
+        <name value="rockchip rk3588_s" />
+        <target value="Android 12L" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
