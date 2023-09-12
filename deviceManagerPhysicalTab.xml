@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="7600143c45c540e0b52" />
+          </Key>
+        </key>
+        <name value="Allwinner Neptune VR9 Triton" />
+        <target value="Android 7.1.1" />
+        <api value="androidversion:25:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="b78690fd" />
           </Key>
         </key>
