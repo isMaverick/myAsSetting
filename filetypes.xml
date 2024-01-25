@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="db" type="DBN-SQL" />
+      <mapping ext="asta" type="PLAIN_TEXT" />
       <mapping ext="vs" type="PLAIN_TEXT" />
       <mapping ext="plantuml" type="PlantUML file" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
