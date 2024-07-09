@@ -309,6 +309,17 @@
         <target value="Android 8.1" />
         <api value="androidversion:27:null:null:true" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="b78c9019" />
+          </Key>
+        </key>
+        <name value="QUALCOMM EM_AX161" />
+        <target value="Android 8.1" />
+        <api value="androidversion:27:null:null:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
