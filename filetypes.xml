@@ -4,6 +4,7 @@
       <mapping ext="db" type="DBN-SQL" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="mp4" type="PLAIN_TEXT" />
       <mapping ext="fbx" type="PLAIN_TEXT" />
       <mapping ext="jpg_token=tres_cci90nrtwqrjbuyk" type="PLAIN_TEXT" />
       <mapping ext="asta" type="PLAIN_TEXT" />
